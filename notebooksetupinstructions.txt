@@ -1,0 +1,10 @@
+Environment Setup:
+python3 -m venv .venv
+source .venv/bin/activate
+pip install notebook
+pip install PyVISA
+pip install pyvisa-py
+pip install zeroconf
+
+Usage: jupyter-notebook
+
