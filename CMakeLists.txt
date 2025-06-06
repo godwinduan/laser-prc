@@ -55,7 +55,7 @@ target_include_directories(prccontroller PRIVATE
 
 # Add any user requested libraries
 target_link_libraries(prccontroller 
-        hardware_spi
+        hardware_spi hardware_adc
         )
 
 pico_add_extra_outputs(prccontroller)

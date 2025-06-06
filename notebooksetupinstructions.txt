@@ -5,6 +5,7 @@ pip install notebook
 pip install PyVISA
 pip install pyvisa-py
 pip install zeroconf
+pip install numpy
 
 Usage: jupyter-notebook
 
