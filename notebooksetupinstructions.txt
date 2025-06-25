@@ -6,6 +6,7 @@ pip install PyVISA
 pip install pyvisa-py
 pip install zeroconf
 pip install numpy
+pip install matplotlib
 
 Usage: jupyter-notebook
 
